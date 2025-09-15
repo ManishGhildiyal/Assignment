@@ -1,1 +1,7 @@
+
+# Node modules
 node_modules/
+
+# Next.js build folders
+Frontend/.next/
+Backend/.next/
